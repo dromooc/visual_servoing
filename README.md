@@ -4,6 +4,6 @@ This repository proposes a Python script that simulates vertical landing control
 
 You can run this script within the Spyder environment or directly from a terminal with the command lines:    
 
-   cd ~/dromooc_vm_ws/src/visual_servoing/scripts
+   cd ~/catkin_ws/src/visual_servoing/scripts
 
    python Landing_OpticalFlow.py
